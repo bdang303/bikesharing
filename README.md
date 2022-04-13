@@ -11,7 +11,7 @@ This project utilizes Tableau to create dashboards & visuals to help paint a pic
 
 Based on the above, these insights will help inform a new location/city in which we might be able to launch a similar bike sharing program.
 
-Actual Tableau Public Dashboard & Story can be viewed at: [Link to Tableau Dashboard][https://public.tableau.com/views/BDangCitiBikeNYC/NYCCitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link]
+Actual Tableau Public Dashboard & Story can be viewed at:[Link to Tableau dashboard](https://public.tableau.com/views/BDangCitiBikeNYC/NYCCitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
