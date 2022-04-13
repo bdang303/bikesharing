@@ -32,6 +32,32 @@ Per the pie chart above, we can see that:
 - Weekdays tend to be the most popular usage, with the peak times above
 - Weekend usage tend to be most popular between hours of 10AM to 5PM 
 
+### Ridership by User Type
+![User Type](https://github.com/bdang303/bikesharing/blob/main/Resources/CustType.png)
+
+Per the pie chart above, we can see that: 
+- Over 75% of the users have a subscription
+
+### Ride Durations
+![Ride Duration](https://github.com/bdang303/bikesharing/blob/main/Resources/Checkouttimes.png)
+
+- Those who checkout bikes tend to ride for ~ 10 minutes or so
+
+### Gender Durations
+![Gender Duration](https://github.com/bdang303/bikesharing/blob/main/Resources/GenderDuration.png)
+
+- Both male & female riders tend to checkout rides for the same amount of time
+
+### Gender Usage
+![Gender Duration](https://github.com/bdang303/bikesharing/blob/main/Resources/GenderDays.png)
+
+- Both male & female riders tend to checkout rides during the same times of the day
+
+### User Type by Days
+![User Type By Day](https://github.com/bdang303/bikesharing/blob/main/Resources/UserTypes.png)
+
+- Subscribers tend to utilze the service throughout the week
+
 ## Summary
 
 Within a face paced metro area such as New York City, there are a few key trends that we were able to gather from the data set. Usage is of course much higher during th weekday at certain peaks (morning & evening). As for correlation between Female & Male usage, both demographics tend to utilize the bike sharing service in the same ways (duration, time of use, etc.) There are a couple of other key insights that could be gathered from the available dataset: 
